@@ -1,2 +1,1 @@
-# .-
-daily
+planetbintang:|https://planetbintang.github.io/.L
